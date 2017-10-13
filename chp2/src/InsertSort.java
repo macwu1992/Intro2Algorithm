@@ -1,5 +1,3 @@
-package Section1;
-
 /**
  * Created by Tong on 2017/10/13.
  */

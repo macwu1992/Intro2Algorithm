@@ -1,6 +1,3 @@
-import Section1.InsertSort;
-import Section1.Practice2_1_4;
-
 /**
  * Created by Tong on 2017/10/13.
  */
